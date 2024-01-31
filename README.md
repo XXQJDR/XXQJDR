@@ -32,5 +32,5 @@
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/XXQJDR/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
 
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXQJDR&layout=compact" height=200/></span>
-<span><img src="https://github-readme-stats.vercel.app/api?username=XXQJDR&count_private=true&show_icons=true" height=200/></span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXQJDR&layout=compact" height=150/></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=XXQJDR&count_private=true&show_icons=true" height=150/></span>
